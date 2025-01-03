@@ -8,7 +8,7 @@ Welcome to the ultimate resource for understanding **Front-End Development**! Th
 ### 1. How the Web Works: Understanding the Internet
 Learn the fundamentals of how the internet connects millions of devices globally.
 
-📖 [Read More](#)
+📖 [Read More](https://github.com/kirankumarwq/Frontend-developement/blob/main/Introduction%20To%20Front%20End%20Developments/How%20the%20Web%20Works%3A%20Understanding%20the%20Internet/readme.md)
 
 ---
 
