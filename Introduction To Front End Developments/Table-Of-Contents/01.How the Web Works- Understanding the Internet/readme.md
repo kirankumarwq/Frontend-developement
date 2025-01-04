@@ -1,4 +1,4 @@
-# How the Internet Works
+# How the Internet Works.
 
 ## Key Concepts
 
